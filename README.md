@@ -1,16 +1,71 @@
-### Hi there, I'm Keith! 👋
+<div align="center">
 
-I'm a **Computer Science student** at **University of Cebu**, diving deep into the world of programming. Currently in my **2nd year**, Java is my primary language (thanks to my curriculum), but I'm always open to learning new technologies! 🚀
+<sub>YOU FOUND THE HUMAN BEHIND THE COMMITS.</sub>
 
-### 🔥 About Me:
-- 🎨 Passionate about **arts, crafts, and graphics**—I love blending creativity with code.
-- 📸 Deeply into **photography**, capturing the world through my lens.
-- 💻 Coding mostly in **Java** and **C#**, but exploring new tech as I go.
+# K T H X X X
 
-### 💡 What I'm Currently Up To:
-- 📚 Learning more about **software development** and **system design**.
-- 🔨 Building projects to sharpen my programming skills.
-- 🎮 Dipping into **game development** & creative coding.
+### Small ideas. Too many tabs. One more commit.
 
-Let's build something awesome together! 🚀✨
+**Keith Justin Emeterio**
 
+[explore the repos ↗](https://github.com/kthxxx?tab=repositories) · [start a conversation ↗](https://github.com/kthxxx/kthxxx/issues/new)
+
+</div>
+
+---
+
+```text
+┌─ keith@github:~ ──────────────────────────────────────┐
+│                                                      │
+│  $ ./introduce                                       │
+│                                                      │
+│  Hello, internet.                                    │
+│  This is where “what if?” becomes a folder.           │
+│  Sometimes it becomes something worth keeping.       │
+│                                                      │
+│  > curiosity          enabled                        │
+│  > perfect first try  unavailable                    │
+│  > one more attempt   always                         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+## The operating manual
+
+**01 / Follow the interesting question.**  
+An idea doesn't have to be big to be worth exploring.
+
+**02 / Make it work. Give it a personality.**  
+The details deserve attention, too.
+
+**03 / Leave room for version two.**  
+There's usually a better way. Finding it is part of the fun.
+
+---
+
+### Pick a door
+
+| If you came here to… | Go here |
+| :--- | :--- |
+| See what I've been making | [Open the workshop →](https://github.com/kthxxx?tab=repositories) |
+| Follow the next experiment | [Follow along →](https://github.com/kthxxx) |
+| Share an idea or say hello | [Leave a note →](https://github.com/kthxxx/kthxxx/issues/new) |
+
+<details>
+<summary><b>A small confession</b></summary>
+
+<br>
+
+“Just a quick change” is an excellent opening line for a very long evening.
+
+</details>
+
+<br>
+
+<div align="center">
+
+`still figuring things out. still making things anyway.`
+
+<sub>END OF FILE · BEGINNING OF SOMETHING ELSE</sub>
+
+</div>
